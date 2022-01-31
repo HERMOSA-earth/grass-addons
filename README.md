@@ -8,6 +8,7 @@
 * [r.colors.lc](https://github.com/mundialis/r.colors.lc)
 * [v.colors.to.rast](https://github.com/mundialis/v.colors.to.rast)
 * [i.up42.import](https://github.com/mundialis/i.up42.import)
+* [r.change.stats](https://github.com/mundialis/r.change.stats)
 * [r.import.ghs](https://github.com/mundialis/r.import.ghs)
 * [r.import.gong_lc](https://github.com/mundialis/r.import.gong_lc)
 * [r.learn.predict.parallel](https://github.com/mundialis/r.learn.predict.parallel)
