@@ -10,3 +10,4 @@
 * [i.up42.import](https://github.com/mundialis/i.up42.import)
 * [r.import.ghs](https://github.com/mundialis/r.import.ghs)
 * [r.import.gong_lc](https://github.com/mundialis/r.import.gong_lc)
+* [r.import.worker](https://github.com/mundialis/r.import.worker)
