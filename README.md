@@ -2,6 +2,7 @@
 
 * [g.extension.github](https://github.com/mundialis/g.extension.github)
 * [g.message.stdout](https://github.com/mundialis/g.message.stdout)
+* [g.region.area](https://github.com/mundialis/g.region.area)
 * [r.import.probav_lc](https://github.com/mundialis/r.import.probav_lc)
 * [v.in.area](https://github.com/mundialis/v.in.area)
 * [r.out.rgb](https://github.com/mundialis/r.out.rgb)
