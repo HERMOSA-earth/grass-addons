@@ -14,3 +14,4 @@
 * [r.out.rgb](https://github.com/mundialis/r.out.rgb)
 * [v.colors.to.rast](https://github.com/mundialis/v.colors.to.rast)
 * [v.in.area](https://github.com/mundialis/v.in.area)
+* [v.out.geojson](https://github.com/mundialis/v.out.geojson)
