@@ -5,6 +5,7 @@
 * [g.region.area](https://github.com/mundialis/g.region.area)
 * [i.rescale.rgb](https://github.com/mundialis/i.rescale.rgb)
 * [i.sentinel_1.mosaic](https://github.com/mundialis/i.sentinel_1/tree/main/i.sentinel_1.mosaic)
+* [i.sentinel_2.autotraining](https://github.com/mundialis/i.sentinel_2/tree/main/i.sentinel_2.autotraining)
 * [i.up42.import](https://github.com/mundialis/i.up42.import)
 * [r.change.stats](https://github.com/mundialis/r.change.stats)
 * [r.colors.lc](https://github.com/mundialis/r.colors.lc)
