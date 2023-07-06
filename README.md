@@ -4,6 +4,7 @@
 * [g.message.stdout](https://github.com/mundialis/g.message.stdout)
 * [g.region.area](https://github.com/mundialis/g.region.area)
 * [i.rescale.rgb](https://github.com/mundialis/i.rescale.rgb)
+* [i.sentinel_1.change](https://github.com/mundialis/i.sentinel_1/tree/main/i.sentinel_1.change)
 * [i.sentinel_1.mosaic](https://github.com/mundialis/i.sentinel_1/tree/main/i.sentinel_1.mosaic)
 * [i.sentinel_2.autotraining](https://github.com/mundialis/i.sentinel_2/tree/main/i.sentinel_2.autotraining)
 * [i.sentinel_2.sen2cor](https://github.com/mundialis/i.sentinel_2/tree/main/i.sentinel_2.sen2cor)
